@@ -1,2 +1,3 @@
 # pwa-example
-Create React Appを利用したPWAサンプル
+
+Create React App を利用した PWA サンプル
